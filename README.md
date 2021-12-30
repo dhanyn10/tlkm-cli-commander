@@ -3,14 +3,14 @@
 ### Instalasi
 pastikan sudah menginstall nodejs LTS terbaru, setelah itu, install semua package/dependensi yang dibutuhkan
 ```bash
-npm install
+$ npm install
 ```
 
 ### Cara menggunakan
   
 - menampilkan petunjuk penggunaan:
     ```bash
-    node ./cmd.js -h
+    $ node ./cmd.js -h
     ```
 - konversi ke json
     ```bash
