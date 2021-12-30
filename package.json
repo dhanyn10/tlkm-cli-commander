@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dhanyn10/tlkm-cli-commander#readme",
   "dependencies": {
-    "commander": "^8.3.0"
+    "commander": "^8.3.0",
+    "moment": "^2.29.1"
   }
 }
