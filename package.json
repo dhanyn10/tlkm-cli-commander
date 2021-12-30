@@ -1,0 +1,22 @@
+{
+  "name": "tlkm-cli-commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanyn10/tlkm-cli-commander.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanyn10/tlkm-cli-commander/issues"
+  },
+  "homepage": "https://github.com/dhanyn10/tlkm-cli-commander#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
